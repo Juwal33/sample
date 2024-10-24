@@ -1,0 +1,33 @@
+Git clone https://github.com/Juwal33/sample.git
+
+Git and github
+
+alternatives : AWS,bitbucket,gitlab
+
+git add . >>> add the file to the staging alternatives (file is being tracked by git)
+
+
+git comit -m "message"  >>>> to comit the changes in the tracked file
+
+
+git push orgin main >>>> pushing the file to the main branch in Githb repository
+
+
+
+git add filename
+
+
+git add .
+
+hello
+luna
+
+
+
+
+
+
+
+
+
+ 
